@@ -1,2 +1,1 @@
-# snake
-snake game
+# Solar_Panel_Detection
